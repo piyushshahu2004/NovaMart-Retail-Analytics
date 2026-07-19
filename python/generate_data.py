@@ -84,7 +84,7 @@ products = {
     "discount_percentage" : [],
     "selling_price" : [],
     "supplier" : [],
-    "date" : [],
+    "date_added" : [],
 }
 for i in range(1,101):
     current_category = categories[(i-1) % len(categories)]
@@ -107,7 +107,7 @@ for i in range(1,101):
     products["discount_percentage"].append(discount)
     products["selling_price"].append(selling_price)
     products["supplier"].append(random.choice(category_suppliers[current_category]))
-    products["date"].append(date_added_calculation())
+    products["date_added"].append(date_added_calculation())
 products_df = pd.DataFrame(products)                        
 print("\nInventory Data:")
 print(products_df)
