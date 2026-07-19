@@ -43,6 +43,14 @@ def stock_calculation(minimum_stock, maximum_stock):
 def discount_calculation(minimum_discount, maximum_discount):
     return random.randint(minimum_discount, maximum_discount)
 
+def date_added_calculation():
+    start = datetime(2024,1,1)
+    today = datetime.now()
+    difference = today - start
+    new_added_date = start + timedelta(days = random.randint(0,difference.days))
+    return new_added_date
+
+
 category_price_range = {
     "Electronics": {"min" : 500,"max" : 120000},
     "Furniture": {"min" : 1500,"max" : 80000},
@@ -76,6 +84,7 @@ products = {
     "discount_percentage" : [],
     "selling_price" : [],
     "supplier" : [],
+    "date" : [],
 }
 for i in range(1,101):
     current_category = categories[(i-1) % len(categories)]
@@ -98,6 +107,7 @@ for i in range(1,101):
     products["discount_percentage"].append(discount)
     products["selling_price"].append(selling_price)
     products["supplier"].append(random.choice(category_suppliers[current_category]))
+    products["date"].append(date_added_calculation())
 products_df = pd.DataFrame(products)                        
 print("\nInventory Data:")
 print(products_df)

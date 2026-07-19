@@ -1,29 +1,16 @@
-# python .\python\generate_data.py
-# # import pandas as pd
-
-# # print("Welcome to NovaMart Retail Analytics!")
-
-# # data = {
-# #     "Product": ["Laptop", "Mouse", "Keyboard"],
-# #     "Price": [65000, 800, 2500],
-# #     "Stock": [25, 150, 75]
-# # }
-
-# # df = pd.DataFrame(data)
-
-# # print("\nInventory Data:")
-# # print(df)
+import pandas as pd
 import random
+from datetime import datetime, timedelta
 
-categories = [
-    "Electronics",
-    "Furniture",
-    "Grocery",
-    "Clothing",
-    "Sports"
-]
+# x = datetime.now()
 
-print(random.randint(100,500))
+# # Prints each item on a new line
+# print(x.day, x.strftime("%b"), x.year)
 
-# for i in range(10):
-#     print(random.choice(categories))
+def date_added_calculation():
+    dates = datetime.now()
+    start_date = datetime.now(2024,1, 1)
+    current_date = dates.day, dates.strftime("%b"), dates.year
+    return current_date, start_date
+
+print(date_added_calculation())
