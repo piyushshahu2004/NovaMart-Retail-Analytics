@@ -111,3 +111,6 @@ for i in range(1,101):
 products_df = pd.DataFrame(products)                        
 print("\nInventory Data:")
 print(products_df)
+products_df.to_csv("products.csv", index=False)
+
+print("\nCSV file saved successfully!")

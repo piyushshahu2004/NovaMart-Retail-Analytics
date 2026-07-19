@@ -1,0 +1,101 @@
+product_id,product_name,category,brand,price,stock_quantity,discount_percentage,selling_price,supplier,date
+1,Asus Vivobook 15,Electronics,Dell,116105,66,5,110299.75,Digital World Pvt Ltd,2024-09-03
+2,Computer Desk,Furniture,Pepperfry,54593,23,30,38215.1,HomeStyle Furnishings,2026-02-16
+3,Tata Tea Gold,Grocery,TATA,268,176,8,246.56,FreshMart Supplies,2026-05-15
+4,Denim Jacket,Clothing,Levis,5154,228,46,2783.16,Elite Garments,2025-03-16
+5,Skipping Rope,Sports,Nike,46502,13,20,37201.6,Active Sports Ltd.,2024-07-18
+6,Samsung Galaxy Tab S10,Electronics,Samsung,31057,70,17,25777.31,Digital World Pvt Ltd,2026-02-17
+7,Coffee Table,Furniture,Nilkamal,40849,8,10,36764.1,HomeStyle Furnishings,2025-01-10
+8,Sugar 1kg,Grocery,Dinshaw,916,344,4,879.36,Daily Needs Wholesale,2026-03-29
+9,Denim Jacket,Clothing,Gucci,1641,261,23,1263.57,Fashion Hub,2025-03-11
+10,Dumbbell Set,Sports,Nike,23150,51,19,18751.5,FitGear India,2025-10-15
+11,Samsung Galaxy A56,Electronics,Dell,16864,51,12,14840.32,Digital World Pvt Ltd,2026-04-20
+12,TV Unit,Furniture,IKEA,2740,10,37,1726.2,Urban Living,2026-04-08
+13,Fortune Rice,Grocery,TATA,899,449,10,809.1,Daily Needs Wholesale,2024-10-13
+14,Raymond Formal Shirt,Clothing,Lacoste,6401,161,11,5696.89,Fashion Hub,2026-03-19
+15,Adidas Cricket Bat,Sports,Puma,24675,55,30,17272.5,Active Sports Ltd.,2025-03-22
+16,Samsung Galaxy A56,Electronics,HP,47883,57,7,44531.19,Smart Devices India,2024-08-15
+17,TV Unit,Furniture,Damro,30169,18,17,25040.27,HomeStyle Furnishings,2025-06-06
+18,Fortune Rice,Grocery,Amul,265,546,5,251.75,ABC Foods,2025-10-30
+19,Levi's 511 Jeans,Clothing,Balenciaga,1911,243,10,1719.9,StyleWear Distributors,2024-08-05
+20,Basketball,Sports,Adidas,7609,138,7,7076.37,Active Sports Ltd.,2025-01-25
+21,Asus ROG Strix,Electronics,Lenovo,67073,44,15,57012.05,Tech Distributors Ltd.,2025-04-26
+22,Queen Size Bed,Furniture,IKEA,68784,18,32,46773.12,Modern Furniture Co.,2024-08-08
+23,Tata Tea Gold,Grocery,Parle,965,894,5,916.75,FreshMart Supplies,2024-01-20
+24,Casual Shirt,Clothing,Lacoste,2481,202,50,1240.5,Elite Garments,2026-07-16
+25,Gym Gloves,Sports,Adidas,49677,121,19,40238.37,FitGear India,2025-10-03
+26,Asus ROG Strix,Electronics,Asus,90264,46,5,85750.8,Digital World Pvt Ltd,2024-09-29
+27,Dining Table,Furniture,Pepperfry,44846,19,23,34531.42,Urban Living,2024-08-08
+28,Maggi Noodles,Grocery,Dinshaw,835,857,7,776.55,Daily Needs Wholesale,2024-04-10
+29,Raymond Formal Shirt,Clothing,Balenciaga,12643,230,22,9861.54,Fashion Hub,2025-09-14
+30,Gym Gloves,Sports,Nike,24651,17,18,20213.82,FitGear India,2025-06-06
+31,HP Victus,Electronics,Lenovo,8684,29,25,6513.0,Tech Distributors Ltd.,2025-11-08
+32,Coffee Table,Furniture,Pepperfry,47909,21,18,39285.38,Urban Living,2024-11-22
+33,Sugar 1kg,Grocery,Dinshaw,578,224,0,578.0,FreshMart Supplies,2024-11-27
+34,Denim Jacket,Clothing,Lacoste,8897,282,46,4804.38,Elite Garments,2025-08-31
+35,Basketball,Sports,Adidas,11273,12,25,8454.75,FitGear India,2024-08-10
+36,Lenovo ThinkPad E14,Electronics,Lenovo,19438,70,18,15939.16,Tech Distributors Ltd.,2024-01-06
+37,Office Chair,Furniture,Pepperfry,64744,27,36,41436.16,Modern Furniture Co.,2026-06-14
+38,Maggi Noodles,Grocery,Fortune,668,475,7,621.24,ABC Foods,2024-07-29
+39,Raymond Formal Shirt,Clothing,Lacoste,1907,60,43,1086.99,StyleWear Distributors,2024-03-09
+40,Skipping Rope,Sports,Nike,31800,41,23,24486.0,Champion Sports Supply,2025-11-26
+41,Lenovo ThinkPad E14,Electronics,Samsung,17777,5,24,13510.52,Smart Devices India,2024-10-07
+42,Wooden Wardrobe,Furniture,Nilkamal,52261,20,14,44944.46,HomeStyle Furnishings,2024-09-06
+43,Amul Milk 1L,Grocery,Fortune,381,426,7,354.33,Daily Needs Wholesale,2025-12-27
+44,Casual Shirt,Clothing,Gucci,11349,193,19,9192.69,Elite Garments,2025-10-15
+45,Basketball,Sports,Nike,9818,18,34,6479.88,FitGear India,2025-04-21
+46,Samsung Galaxy Tab S10,Electronics,Asus,30078,63,14,25867.08,Digital World Pvt Ltd,2026-06-16
+47,Dining Table,Furniture,Nilkamal,48170,3,39,29383.7,Modern Furniture Co.,2024-06-13
+48,Tata Tea Gold,Grocery,Fortune,136,636,8,125.12,FreshMart Supplies,2025-01-07
+49,Nike Track Pants,Clothing,Raymond,3178,169,39,1938.58,Elite Garments,2025-10-20
+50,Nike Football,Sports,Puma,12003,128,13,10442.61,Champion Sports Supply,2024-10-14
+51,Samsung Galaxy Tab S10,Electronics,Dell,66613,13,9,60617.83,Smart Devices India,2024-06-14
+52,Office Chair,Furniture,Damro,66494,28,38,41226.28,HomeStyle Furnishings,2025-06-30
+53,Fortune Rice,Grocery,Dinshaw,231,409,1,228.69,FreshMart Supplies,2024-01-30
+54,Formal Trousers,Clothing,Raymond,6922,253,42,4014.76,Fashion Hub,2024-08-29
+55,Nike Football,Sports,Puma,24231,90,8,22292.52,Champion Sports Supply,2025-10-24
+56,Samsung Galaxy A56,Electronics,HP,100338,9,19,81273.78,Smart Devices India,2024-01-20
+57,Office Chair,Furniture,Damro,31373,12,32,21333.64,HomeStyle Furnishings,2024-01-16
+58,Fortune Sunflower Oil 1L,Grocery,Fortune,522,935,3,506.34,FreshMart Supplies,2026-03-21
+59,Gucci Leather Belt,Clothing,Raymond,10613,239,49,5412.63,Elite Garments,2024-03-29
+60,HRX Yoga Mat,Sports,Adidas,27472,124,16,23076.48,Active Sports Ltd.,2025-04-30
+61,Lenovo IdeaPad Slim 3,Electronics,HP,77828,26,22,60705.84,Smart Devices India,2025-01-14
+62,Queen Size Bed,Furniture,Damro,49058,22,37,30906.54,Urban Living,2025-02-11
+63,Amul Milk 1L,Grocery,TATA,354,811,10,318.6,FreshMart Supplies,2025-10-12
+64,Nike Track Pants,Clothing,Levis,12684,123,58,5327.28,StyleWear Distributors,2026-01-18
+65,Dumbbell Set,Sports,Nike,27568,27,30,19297.6,Champion Sports Supply,2026-05-16
+66,Dell Inspiron 14,Electronics,HP,67809,37,24,51534.84,Tech Distributors Ltd.,2025-09-06
+67,Bookshelf,Furniture,Nilkamal,67753,18,28,48782.16,HomeStyle Furnishings,2024-01-06
+68,Tata Salt 1kg,Grocery,Dinshaw,465,700,9,423.15,FreshMart Supplies,2025-10-04
+69,Denim Jacket,Clothing,Gucci,9606,179,43,5475.42,Fashion Hub,2025-11-02
+70,Basketball,Sports,Decathlon,26125,100,10,23512.5,FitGear India,2025-11-14
+71,Lenovo IdeaPad Slim 3,Electronics,HP,68446,60,11,60916.94,Digital World Pvt Ltd,2025-05-15
+72,Wooden Wardrobe,Furniture,Pepperfry,16141,28,39,9846.01,Urban Living,2026-01-28
+73,Amul Milk 1L,Grocery,Parle,698,709,6,656.12,Daily Needs Wholesale,2026-01-29
+74,Lacoste Polo T-Shirt,Clothing,Raymond,9851,131,11,8767.39,StyleWear Distributors,2024-05-13
+75,Decathlon Backpack,Sports,HRX,2058,57,26,1522.92,FitGear India,2024-08-29
+76,Asus Vivobook 15,Electronics,Samsung,35449,70,6,33322.06,Smart Devices India,2025-06-01
+77,Study Table,Furniture,Nilkamal,23356,17,27,17049.88,Modern Furniture Co.,2024-03-19
+78,Maggi Noodles,Grocery,TATA,414,244,8,380.88,Daily Needs Wholesale,2025-08-20
+79,Levi's 511 Jeans,Clothing,Balenciaga,8122,139,20,6497.6,Fashion Hub,2025-02-15
+80,Basketball,Sports,Decathlon,16850,132,7,15670.5,Champion Sports Supply,2025-08-27
+81,HP Victus,Electronics,Asus,111707,5,16,93833.88,Digital World Pvt Ltd,2024-05-03
+82,Office Chair,Furniture,Godrej,71728,15,37,45188.64,Modern Furniture Co.,2024-02-15
+83,Aashirvaad Atta 5kg,Grocery,Parle,907,484,2,888.86,FreshMart Supplies,2024-11-28
+84,Balenciaga Hoodie,Clothing,Balenciaga,10328,292,28,7436.16,StyleWear Distributors,2024-05-27
+85,Gym Gloves,Sports,Nike,9195,77,26,6804.3,Active Sports Ltd.,2024-06-01
+86,Dell XPS 13,Electronics,Dell,37998,63,11,33818.22,Smart Devices India,2024-03-25
+87,Office Chair,Furniture,Godrej,24154,20,14,20772.44,Urban Living,2024-02-13
+88,Sugar 1kg,Grocery,Dinshaw,208,604,3,201.76,FreshMart Supplies,2024-05-31
+89,Levi's 511 Jeans,Clothing,Lacoste,984,185,26,728.16,Fashion Hub,2024-12-25
+90,HRX Yoga Mat,Sports,HRX,31121,77,19,25208.01,Champion Sports Supply,2025-12-29
+91,HP Victus,Electronics,Samsung,84179,19,10,75761.1,Tech Distributors Ltd.,2026-06-12
+92,Wooden Wardrobe,Furniture,Damro,42478,27,11,37805.42,Modern Furniture Co.,2025-11-26
+93,Fortune Sunflower Oil 1L,Grocery,Fortune,385,567,5,365.75,FreshMart Supplies,2025-03-27
+94,Formal Trousers,Clothing,Levis,2064,22,54,949.44,Fashion Hub,2026-07-13
+95,Gym Gloves,Sports,Puma,36794,147,12,32378.72,Champion Sports Supply,2025-07-13
+96,HP Victus,Electronics,HP,15061,11,11,13404.29,Digital World Pvt Ltd,2024-05-23
+97,Sofa Set,Furniture,Nilkamal,71144,11,24,54069.44,Modern Furniture Co.,2024-08-16
+98,Fortune Sunflower Oil 1L,Grocery,Amul,728,331,0,728.0,FreshMart Supplies,2025-03-07
+99,Formal Trousers,Clothing,Gucci,3020,108,44,1691.2,StyleWear Distributors,2024-03-21
+100,Dumbbell Set,Sports,Decathlon,40489,13,21,31986.31,Active Sports Ltd.,2026-01-26
