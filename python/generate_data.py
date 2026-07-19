@@ -48,7 +48,7 @@ def date_added_calculation():
     today = datetime.now()
     difference = today - start
     new_added_date = start + timedelta(days = random.randint(0,difference.days))
-    return new_added_date
+    return new_added_date.date()
 
 
 category_price_range = {
